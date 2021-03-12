@@ -4,7 +4,6 @@ excerpt: Еженедельная подборка книг от Nordic Life
 date: '2021-03-12'
 thumb_img_path: images/what-is-hygge.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
-content_img_path: images/1.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
   title: Basic Rules For Walking In The Mountains
