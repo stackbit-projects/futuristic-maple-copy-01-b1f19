@@ -35,6 +35,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: post
+content_img_path: images/cinnamon-rolls-process-10-28032019.jpg
 ---
 ### **Сначала предлагаем подготовить все ингредиенты для теста:**
 
