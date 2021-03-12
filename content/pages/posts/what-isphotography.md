@@ -2,7 +2,7 @@
 title: Услада для глаз
 subtitle: A intresting tale about Photography and me
 excerpt: Еженедельная подборка фотографий от Nordic Life
-date: '2018-01-15'
+date: '2021-03-12'
 thumb_img_path: images/8.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
