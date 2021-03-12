@@ -40,5 +40,3 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-
