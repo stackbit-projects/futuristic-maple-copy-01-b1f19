@@ -76,7 +76,7 @@
         ],
         "has_subscribe": true,
         "subscribe_title": "Помогите нам стать лучше",
-        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
+        "subscribe_content": "Мы очень рады, что вы посетили наш портал! А еще больше мы будем рады обратной связи. Будем с нетерпением ждать ваших отзывов и пожеланий!",
         "subscribe_action": "/subscribe-success"
     },
     "domain": "https://futuristic-maple-copy-01-b1f19.netlify.app"
