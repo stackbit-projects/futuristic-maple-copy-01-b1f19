@@ -2,7 +2,7 @@
 title: 'Фика: что это такое'
 subtitle: Кофейная философия по-шведски
 excerpt: Кофейная философия по-шведски
-date: '2019-03-24'
+date: '2021-03-12'
 thumb_img_path: images/4.jpg
 thumb_img_alt: A man fishing in a lake
 content_img_path: images/4.jpg
