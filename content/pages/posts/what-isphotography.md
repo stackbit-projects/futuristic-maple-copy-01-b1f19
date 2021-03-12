@@ -35,7 +35,60 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Природа Норвегии захватывает, очаровывает и влюбляет. Предлагаем подборку фотографий, насквозь пропитанных свежим воздухом гор, морей и полей.![](/images/4d56e834076029b767f5c5042530c223.jpg)![](/images/2-2.jpg)![](/images/1d6b94742882c259ef2cfdb5dd640a87\_L.jpg)![](/images/images.jpg)![](/images/puteshestvie-na-krai-sveta-tur-v-severnuiu-norvegiu-finliandiu-i-shveziu-tur-15525810039673\_w687h357.jpg)![](/images/toni-toyras-lapland-04.jpg)![](/images/Trollfjord-Red-Traditional-House-on-Stilts-Norwegian-Fjords-Scandinavia-Standard.jpg)![](/images/norway-country-sognefjord.jpg)![](/images/aurorae-norway-nature.jpg)
+> **Природа Норвегии захватывает, очаровывает и влюбляет. Предлагаем подборку фотографий, насквозь пропитанных свежим воздухом гор, морей и полей.**
+
+
+
+![](/images/4d56e834076029b767f5c5042530c223.jpg)
+
+
+
+
+
+![](/images/2-2.jpg)
+
+
+
+
+
+![](/images/1d6b94742882c259ef2cfdb5dd640a87\_L.jpg)
+
+
+
+
+
+![](/images/images.jpg)
+
+
+
+
+
+![](/images/puteshestvie-na-krai-sveta-tur-v-severnuiu-norvegiu-finliandiu-i-shveziu-tur-15525810039673\_w687h357.jpg)
+
+
+
+
+
+
+
+![](/images/toni-toyras-lapland-04.jpg)
+
+
+
+
+
+![](/images/Trollfjord-Red-Traditional-House-on-Stilts-Norwegian-Fjords-Scandinavia-Standard.jpg)
+
+
+
+
+
+![](/images/norway-country-sognefjord.jpg)
+
+
+
+
+
+![](/images/aurorae-norway-nature.jpg)
 
 ##
-
