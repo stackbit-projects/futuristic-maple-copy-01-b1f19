@@ -1,7 +1,7 @@
 ---
 title: Таинственная Исландия
 excerpt: Самобытная и оторванная от Европы
-date: '2018-01-09'
+date: '2021-03-12'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
