@@ -5,7 +5,6 @@ excerpt: Кофейная философия по-шведски
 date: '2021-03-12'
 thumb_img_path: images/56c28d903a5311e981d40ad0a06fea74.png
 thumb_img_alt: A man fishing in a lake
-content_img_path: images/4.jpg
 content_img_alt: A man fishing in a lake
 seo:
   title: My Way to Relax in Nature and Stress Less
