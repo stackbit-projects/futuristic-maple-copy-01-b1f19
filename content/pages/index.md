@@ -8,7 +8,7 @@ intro_actions:
   - label: о нас
     url: /about
     style: primary
-  - label: Contact
+  - label: контакты
     url: /contact
     style: secondary
 has_more_link: true
