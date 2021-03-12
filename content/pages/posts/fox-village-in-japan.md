@@ -1,8 +1,5 @@
 ---
 title: Интерьер в скандинавском стиле
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
 excerpt: Как создать северный уют в комнате
 date: '2021-03-12'
 thumb_img_path: images/ORANGE_CABIN_DYKE_DEAN_2048x2048.webp
