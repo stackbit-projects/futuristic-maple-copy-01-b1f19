@@ -1,8 +1,6 @@
 ---
 title: 'Фика: что это такое'
-subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+subtitle: Кофейная философия по-шведски
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
