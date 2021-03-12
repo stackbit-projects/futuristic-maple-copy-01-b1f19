@@ -37,13 +37,30 @@ seo:
       relativeUrl: true
 layout: post
 ---
+### **Сначала предлагаем подготовить все ингредиенты для теста:**
 
-**The City of New York**, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States. With an estimated 2017 population of 8,622,698 distributed over a land area of about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States.
+> Молоко (теплое) - 250 мл
+> Сахар - 50 г 
+> Дрожжи сухие - 6 г
+> Мука пшеничная в/c - 430 г
+> Масло сливочное (мягкое) - 150 г
+> Сахарная пудра - 50 г
+> Корица - 1 ч.л. 
+> Соль - 1/4 ч.л.
+> Кардамон (молотый) - 1 ч.л.
 
-Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Suscipit tellus mauris a diam maecenas sed enim ut. Risus quis varius quam quisque id diam vel. Nulla facilisi etiam dignissim diam quis enim. Sed blandit libero volutpat sed cras ornare. In metus vulputate eu scelerisque felis. Integer enim neque volutpat ac tincidunt vitae semper quis. Morbi quis commodo odio aenean sed adipiscing diam donec. Quis auctor elit sed vulputate mi sit amet mauris commodo. Maecenas sed enim ut sem viverra aliquet. Eget dolor morbi non arcu risus quis varius quam. Risus quis varius quam quisque id diam vel.
 
-> In New York it seems like there's no Monday or Saturday or Sunday. The town is always moving. The vibe is great. - Thierry Henry
 
-Convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare. Donec ac odio tempor orci dapibus ultrices in. Malesuada fames ac turpis egestas sed tempus. Commodo odio aenean sed adipiscing. Vel pretium lectus quam id. Eget mi proin sed libero enim sed. Neque viverra justo nec ultrices dui sapien.
+##### Делаем опару. В 50 мл теплого молока растворить дрожжи. Добавить 10 г сахара и 30 г муки. Оставить опару примерно на 15 минут. В отдельной емкости смешиваем 200 мл теплого молока, 40 г сахара, соль и кардамон. Все хорошо перемешать и влить опару. Ввести частями всю оставшуюся муку и замесить тесто. Добавить 75 г сливочного масла и снова вымесить. Теперь отправляем тесто расстаиваться час в теплое место. 
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+##### В это время займемся начинкой. Перемешиваем оставшееся масло, корицу и сахарную пудру. Начинка готова!
+
+##### Итак, прошел час. Раскатываем тесто в прямоугольник. Выкладываем начинку на 2/3 пласта. Далее важно правильно сложить будущие булочки. Сгибаем сначала часть без начинки. Затем загибаем внахлест часть с начинкой. У нас получается трехслойное тесто. Его нужно перевернуть. раскатать и разрезать на полоски. каждую полоску надрезать посередине (но не до конца). Сворачиваем каждую полоску как клубок.  Выкладываем булочки на противень и отправляем на расстойку минут на 40. затем можно смазать желтком и посыпать сахаром (можно пропустить этот этап). Выпекаем минут 15-20 при 180 градусах.
+
+**Заварите любимый  чай или кофе, укутайтесь в плед, зажгите свечи и наслаждайтесь нежным вкусом ароматной выпечки.**
+
+Корица - 1 ч.л. или по вкусу
+
+Соль - 1/4 ч.л.
+
+Кардамон (молотый) - 1 ч.л.
