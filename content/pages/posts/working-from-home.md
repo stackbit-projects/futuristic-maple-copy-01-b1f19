@@ -4,7 +4,6 @@ excerpt: 'Почувствуйте себя филологом, исследую
 date: '2019-03-30'
 thumb_img_path: images/78f7875620a8b5c8aa1b7fcc14.jpg
 thumb_img_alt: A white modern house
-content_img_path: images/9.jpg
 content_img_alt: A white modern house
 seo:
   title: The Advantages and Disadvantages of Working from Home
