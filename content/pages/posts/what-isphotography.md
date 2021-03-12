@@ -1,6 +1,6 @@
 ---
 title: Услада для глаз
-subtitle: A intresting tale about Photography and me
+subtitle: Сделайте перерыв.
 excerpt: Еженедельная подборка фотографий от Nordic Life
 date: '2021-03-12'
 thumb_img_path: images/8.jpg
