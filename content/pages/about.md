@@ -1,6 +1,6 @@
 ---
 title: О нас
-subtitle: This is a short page about me and my work
+subtitle: Привет! Рады знакомству с тобой
 img_path: images/about.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
