@@ -5,7 +5,7 @@ intro_content: >
   ##### **Мы хотим рассказывать больше про северную культуру. Тут все про хюгге,
   фьорды и ирландский степ**
 intro_actions:
-  - label: Learn More
+  - label: о нас
     url: /about
     style: primary
   - label: Contact
