@@ -5,7 +5,7 @@ excerpt: >-
   Рецепт, которые наполнит ваш дом непередаваемым ароматом и перенесет в
   Стокгольм
 date: '2021-03-12'
-thumb_img_path: images/cbc37fd33cfc20a68cc2ef822153a270.jpg
+thumb_img_path: images/swedish-cardamom-rolls-33.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: images/5.jpg
 content_img_alt: Brooklyn Bridge at daytime
