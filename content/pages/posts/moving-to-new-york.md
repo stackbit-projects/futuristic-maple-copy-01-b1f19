@@ -4,7 +4,7 @@ subtitle: A cautionary tale about life in New York
 excerpt: >-
   Рецепт, которые наполнит ваш дом непередаваемым ароматом и перенесет в
   Стокгольм
-date: '2018-01-23'
+date: '2021-03-12'
 thumb_img_path: images/5.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: images/5.jpg
